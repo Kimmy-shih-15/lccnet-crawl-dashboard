@@ -1,5 +1,6 @@
-requests
+streamlit
+bs4
 pandas
-psycopg2
+numpy
 plotly
 jieba
